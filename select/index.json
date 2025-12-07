@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "VANILLA SKY",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2025-12-07T07:32:32.660577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/01_Vanilla_Sky_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. Ecco2k)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/02_Vanilla_Sky_(feat._Ecco2k)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/03_Vanilla_Sky_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/04_Vanilla_Sky_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/05_Vanilla_Sky_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Bladee, Ecco2k",
+      "has_synced": true,
+      "path": "select/06_Vanilla_Sky_Bladee,_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "A",
+      "has_synced": false,
+      "path": "select/07_Vanilla_Sky_A.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. G-Eazy)",
+      "artist": "Statik Selektah feat. G-Eazy",
+      "has_synced": true,
+      "path": "select/08_Vanilla_Sky_(feat._G-Eazy)_Statik_Selektah_feat._G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Statik Selektah",
+      "has_synced": true,
+      "path": "select/09_Vanilla_Sky_Statik_Selektah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "香草天空 [Vanilla Sky]",
+      "artist": "原子邦妮 (Astro Bunny)",
+      "has_synced": true,
+      "path": "select/10_香草天空_[Vanilla_Sky]_原子邦妮_(Astro_Bunny).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "18 Vanilla Sky",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/11_18_Vanilla_Sky_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. G-Eazy)",
+      "artist": "Statik Selektah",
+      "has_synced": true,
+      "path": "select/12_Vanilla_Sky_(feat._G-Eazy)_Statik_Selektah.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "VANILLA SKY",
+      "artist": "[Alexandros] feat. WurtS",
+      "has_synced": false,
+      "path": "select/13_VANILLA_SKY_[Alexandros]_feat._WurtS.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "VANILLA SKY",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/14_VANILLA_SKY_[Alexandros].txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Paul McCartney",
+      "has_synced": true,
+      "path": "select/15_Vanilla_Sky_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/16_Vanilla_Sky_Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VANILLA SKY",
+      "artist": "[Alexandros], WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_VANILLA_SKY_[Alexandros],_WurtS.txt"
+    }
+  ]
+}
